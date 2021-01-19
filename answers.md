@@ -35,6 +35,6 @@ http://localhost:3000/api/games/
 To ensure compatibility with your operating system.
 
 
-![Students imaginary file relationships](game_diagram.png)
+![Students imaginary file relationships](game_diagram.jpg)
 
 *Student's imaginary file relationships*
